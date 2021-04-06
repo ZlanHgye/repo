@@ -1,4 +1,0 @@
-C:\Users\herny\Desktop\Zalán\Mechwart\Távoktatás fucking again\Infó\CoolKid\VibioGem\VibioGem\obj\Debug\netcoreapp3.1\VibioGem.csprojAssemblyReference.cache
-C:\Users\herny\Desktop\Zalán\Mechwart\Távoktatás fucking again\Infó\CoolKid\VibioGem\VibioGem\obj\Debug\netcoreapp3.1\VibioGem.AssemblyInfoInputs.cache
-C:\Users\herny\Desktop\Zalán\Mechwart\Távoktatás fucking again\Infó\CoolKid\VibioGem\VibioGem\obj\Debug\netcoreapp3.1\VibioGem.AssemblyInfo.cs
-C:\Users\herny\Desktop\Zalán\Mechwart\Távoktatás fucking again\Infó\CoolKid\VibioGem\VibioGem\obj\Debug\netcoreapp3.1\VibioGem.csproj.CoreCompileInputs.cache
